@@ -1,0 +1,3 @@
+SELECT * FROM Person.PERSONS
+where age > 27
+ORDER BY age DESC
